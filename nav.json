@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Getting Started",
+    "items": [
+      { "title": "Introduction", "path": "index" },
+      { "title": "Setup", "path": "setup" }
+    ]
+  },
+  {
+    "title": "Guides",
+    "items": [
+      { "title": "Authentication", "path": "api/auth" },
+      { "title": "Users", "path": "api/users" }
+    ]
+  }
+]
