@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "index.mdx",
                 "mode": "source",
                 "source": false
               },
@@ -196,7 +196,15 @@
   },
   "active": "c0fee671fe4984b7",
   "lastOpenFiles": [
-    "test-folder/getting-started.md",
-    "index.md"
+    "image-generation.mdx",
+    "index.mdx",
+    "Névtelen.md",
+    "ai-characters/getting-started 1.mdx",
+    "test-folder/getting-started.mdx",
+    "ai-characters/Névtelen.mdx.md",
+    "ai-characters",
+    "index.md",
+    "README.md",
+    "test-folder/getting-started.md"
   ]
 }
