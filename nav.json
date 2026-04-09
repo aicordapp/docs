@@ -1,13 +1,15 @@
 [
   {
     "title": "Getting Started",
+    "icon": "wave",
     "items": [
-      { "title": "Introduction", "path": "index" },
-      { "title": "Setup", "path": "setup" }
+      { "title": "Welcome to AICord", "path": "index" },
+      { "title": "Frequently Asked Questions", "path": "faq" }
     ]
   },
   {
     "title": "Guides",
+    "icon": "book-open",
     "items": [
       { "title": "Authentication", "path": "api/auth" },
       { "title": "Users", "path": "api/users" }

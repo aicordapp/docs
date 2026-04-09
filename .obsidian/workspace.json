@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.mdx",
+                "file": "faq.mdx",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "faq"
             }
           }
         ]
@@ -196,9 +196,11 @@
   },
   "active": "c0fee671fe4984b7",
   "lastOpenFiles": [
-    "ai-characters/getting-started 1.mdx",
-    "index.mdx",
     "image-generation.mdx",
+    "faq.mdx",
+    "index.mdx",
+    "faq",
+    "ai-characters/getting-started 1.mdx",
     "Névtelen.md",
     "test-folder/getting-started.mdx",
     "ai-characters/Névtelen.mdx.md",
